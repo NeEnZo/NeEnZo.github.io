@@ -21,9 +21,9 @@ repository               : "NeEnZo/NeEnZo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Ling Ni"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "An Atypical Medical Student/First Year Undergraduate from CKC Honors College, Zhejiang University"
   location         : "Zhejiang, Wenzhou"
   employer         : "Zhejiang University"
